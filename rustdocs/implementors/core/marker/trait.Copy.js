@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["definitions"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.64.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"definitions/crypto/enum.Encryption.html\" title=\"enum definitions::crypto::Encryption\">Encryption</a>","synthetic":false,"types":["definitions::crypto::Encryption"]}];
+implementors["navigator"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.64.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"navigator/alerts/enum.Alert.html\" title=\"enum navigator::alerts::Alert\">Alert</a>","synthetic":false,"types":["navigator::alerts::Alert"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
